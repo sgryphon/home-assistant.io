@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem 'jekyll-toc', '0.15.0'
 end
 
-gem 'sinatra', '2.1.0'
+gem 'sinatra', '2.2.3'
 gem 'nokogiri', '1.10.10'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
